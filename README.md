@@ -1,5 +1,6 @@
 # GameOfLife
-Implemented Conway's Game of Life in vanilla javascript. Open the index.html file to see it in action.
+Implemented Conway's Game of Life in vanilla javascript.<br/>
+Clone the repo and open the index.html file in your browser to see it in action.
 
 ## To Do
 Give more user control with Play, Pause, Stop buttons.<br/>
